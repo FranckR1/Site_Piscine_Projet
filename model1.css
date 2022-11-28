@@ -1,0 +1,207 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-size: 50px;
+    padding: 30px;
+    margin: -9px;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    background-image: url("ress/bulles.gif")
+}
+#button{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: rgb(9, 9, 87);
+  border: none;
+  border-radius: 15px;
+  font-family: Tahoma;
+  margin: 40px;
+  background-image: url("ress/bulles.gif");
+  
+}
+.Button10{
+    text-align: center;
+    margin: 50px;
+
+}
+h2{
+  text-align: center;
+  font-family: verdana;
+  margin: 50px;
+  text-decoration: underline;
+}
+h3{
+  text-align: center;
+  font-family: verdana;
+  margin: 50px;
+  text-decoration: underline;
+}
+img.IM1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto; 
+}
+.IM2{
+  width: 500px;
+  height: 350px;
+  float: left;
+}
+#PARA{
+  overflow: auto;
+  border-style: solid;
+  text-align: center;
+  border-color: black;
+  margin-left: 150px;
+  margin-right: 150px;
+  
+  
+}
+.IMG2{
+  margin-top: 120px;
+  text-align: center;
+  font-size: 25px;
+   
+}
+h4{
+  font-family: verdana;
+  text-align: center;
+  margin: 50px;
+  font-size: 20px;
+  text-decoration: underline;
+}
+#MAPS{
+  width: 1000px;
+  height: 150px;
+  
+}
+#carte {
+  max-width: 60%;
+  margin: 0 auto;
+  text-align: center;
+}
+#PARA1{
+  font-size: 25px;
+  text-align: center;
+
+}
+#HAUTPAGE{
+  font-size: 20px;
+  border-style: solid;
+  border-color: grey;
+  background-color: grey;
+  float: right;
+  margin-top: 170px;
+
+}
+a{
+  text-decoration: none;
+}
+.btn {
+  height: 50px;
+  width: 50px;
+  background: rgb(131, 227, 240);
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  cursor: pointer;
+}
+.icone {
+  width: 30px;
+}
+#BUT1{
+  display: inline-block;
+  padding: 15px 25px;
+  font-size: 24px;
+  cursor: pointer;
+  text-align: center;
+  text-decoration: none;
+  outline: none;
+  color: rgb(9, 9, 87);
+  border: none;
+  border-radius: 15px;
+  font-family: Tahoma;
+  margin: 40px;
+  background-image: url("ress/bulles.gif");
+}
+/* Memoire de la Page 1 en haut */
+
+h5{
+  text-align: center;
+  font-family: arial;
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+#PARAGRAPHE1{
+  float: right;
+  font-size: 40px;
+  font-family: arial;
+  margin-top: 160px;
+  text-align: center;
+  margin-right: 300px;
+
+}
+#PARAGRAPHE2{
+  float: right;
+  font-size: 40px;
+  font-family: arial;
+  margin-top: 180px;
+  margin-right: 300px
+}
+#PARAGRAPHE3{
+  float: right;
+  font-size: 40px;
+  font-family: arial;
+  margin-top: 180px;
+  margin-right: 300px
+}
+
+/* Memoire de la Page 2 en haut */
+
+h6{
+  text-align: center;
+  font-family: arial;
+  text-decoration: underline;
+  font-size: 30px;
+  margin-top: 20px;
+}
+table{
+  border-collapse: collapse;
+  margin-left: 360px;	  
+}
+td{
+  border: 2px solid black;
+  padding: 1px;
+  font-size: 30px;
+  text-align: center;
+  color: black;
+}
+td img{
+  max-width: 350px;
+  height: auto;
+  
+}
+th{
+  border: 2px solid black;
+  padding: 1px;
+  font-size: 20px;
+  text-align: center;
+  color: black;
+  background-image: url("ress/bulles.gif");
+  height: 30px;
+}
+.ROUGE{
+  background-color: red;  
+}
+
+
+/* Memoire de la page 3 en haut */
+
